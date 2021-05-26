@@ -55,7 +55,7 @@ Firstly, obtain predictions via
 python main.py --test_only --pretrain "bal_bla.pt" --GPU_ID 0 --save_result
 ```
 For *PR curve* and *F curve*, we use the code provided by this repo: [[BASNet, CVPR-2019]](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)\
-For *MAE*, *F-score*, *E score* and *S score*, we use the code provided by this repo: [[F3Net, AAAI-2020]](https://github.com/weijun88/F3Net#evaluation)
+For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by this repo: [[F3Net, AAAI-2020]](https://github.com/weijun88/F3Net#evaluation)
 ### Citation
 If you find this work is helpful, please cite our paper
 
