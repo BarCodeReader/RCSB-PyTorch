@@ -35,11 +35,11 @@ dataset/benchmark/
 With default setting (batchsize=4), 24GB RAM is required, but you can always reduce the batchsize to fit your hardware.
 
 Default values in option.py are already set to the same configuration as our paper, so\
-to train your model, simply:
+to train the model, simply:
 ```
 python main.py --GPU_ID 0
 ```
-to test your model, simply:
+to test the model, simply:
 ```
 python main.py --test_only --pretrain "bal_bla.pt" --GPU_ID 0
 ```
