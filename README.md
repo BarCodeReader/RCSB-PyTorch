@@ -34,7 +34,7 @@ dataset/benchmark/
 **Firstly, make sure you have enough GPU RAM**.\
 With default setting (batchsize=4), 24GB RAM is required, but you can always reduce the batchsize to fit your hardware.
 
-Default values in option.py already set to the same configuration as our paper, so\
+Default values in option.py are already set to the same configuration as our paper, so\
 to train your model, simply:
 ```
 python main.py --GPU_ID 0
