@@ -4,7 +4,7 @@
 ### Network Architecture
 ![network](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/RCSBNet.png)
 ### Prerequisites
-Ubuntu 18.04
+Ubuntu 18.04\
 Python==3.8.3\
 Torch==1.8.0+cu111\
 Torchvision=0.9.0+cu111\
