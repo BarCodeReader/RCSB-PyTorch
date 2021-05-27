@@ -59,7 +59,7 @@ For *PR curve* and *F curve*, we use the code provided by this repo: [[BASNet, C
 For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by this repo: [[F3Net, AAAI-2020]](https://github.com/weijun88/F3Net#evaluation)
 ### Evaluation Results
 ![mae_table](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/MAE_table.png)
-![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/PRFM_curves.png)
+![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/all_prfm_curves_12.png)
 ### Citation
 If you find this work is helpful, please cite our paper
 
