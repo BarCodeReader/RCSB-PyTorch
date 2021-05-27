@@ -1,9 +1,7 @@
-## [Recusive Contour Saliency Blending Network for Accurate Salient Object Detection](https://www.google.com)[Under Review]
-This repo is the original RCSB playground, with full log of history and codes.
-The one RCSB-PyTorch is for review and publication purpose, and it is a simplified version (some logging functions are trimmed)
+## [Recursive Contour Saliency Blending Network for Accurate Salient Object Detection](https://www.google.com)[Under Review]
 
 ### Network Architecture
-
+![network](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/RCSBNet.png)
 ### Prerequisites
 Python==3.8.3\
 Torch==1.8.0+cu111\
@@ -54,8 +52,13 @@ Firstly, obtain predictions via
 ```
 python main.py --test_only --pretrain "bal_bla.pt" --GPU_ID 0 --save_result
 ```
+Output will be saved in `./output/` by default.
+
 For *PR curve* and *F curve*, we use the code provided by this repo: [[BASNet, CVPR-2019]](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)\
 For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by this repo: [[F3Net, AAAI-2020]](https://github.com/weijun88/F3Net#evaluation)
+### Evaluation Results
+![mae_table](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/MAE_table.png)
+![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/PRFM_curves.png)
 ### Citation
 If you find this work is helpful, please cite our paper
 
