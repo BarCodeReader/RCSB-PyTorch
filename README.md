@@ -64,4 +64,5 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 If you find this work is helpful, please cite our paper
 
 ### Licence
-Free for academic usage, commercial application is strictly prohibited.
+Free for academic usage.
+**Commercial application is strictly prohibited.**
