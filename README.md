@@ -1,4 +1,4 @@
-## Recursive Contour Saliency Blending Network for Accurate Salient Object Detection]
+## Recursive Contour Saliency Blending Network for Accurate Salient Object Detection
 <img src="https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/NIPS_logo.png" alt="drawing" width="200"/>
 
 ### Network Architecture
