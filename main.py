@@ -30,7 +30,7 @@ def main():
                                                                   opt.test_dataset.split('_')[1]))
 
         result = tester.evaluate(path=ckpt[0])
-        msg = "ckpt:{} MAE: {:.4f}\n".format(ckpt[0], result['mae'])
+        msg = "ckpt:{} MAE: {:.4f}\n".format(ckpt[0], result)
         print(msg)
         print('done testing')
     else:
