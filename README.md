@@ -46,8 +46,8 @@ python main.py --test_only --pretrain "bal_bla.pt" --GPU_ID 0
 If you want to train/test with different settings, please refer to **option.py** for more control options.\
 Currently only support training on single GPU.
 ### Pretrain Model & Pre-calculated Saliency Map
-Our pretrain model: [[Google]](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)\
-Our pre-calculated saliency map:[[Google]](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)
+Our pretrain model: [[Google]](https://drive.google.com/drive/folders/1P5h-L_YhbDls98r0NWXGMOcG6tjZNjza?usp=sharing)\
+Our pre-calculated saliency map:[[Google]](https://drive.google.com/drive/folders/1P5h-L_YhbDls98r0NWXGMOcG6tjZNjza?usp=sharing)
 
 ### Evaluation
 Firstly, obtain predictions via
