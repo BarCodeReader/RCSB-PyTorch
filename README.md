@@ -62,4 +62,4 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 ![mae_table](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/MAE_table.png)
 ![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/all_prfm_curves_12.png)
 ### Citation
-If you find this work is helpful, please cite our paper
+More details to be released soon.
