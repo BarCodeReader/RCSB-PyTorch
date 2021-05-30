@@ -48,6 +48,8 @@ Currently only support training on single GPU.
 ### Pretrain Model & Pre-calculated Saliency Map
 Our pretrain model and pre-calculated saliency map: [[Google]](https://drive.google.com/drive/folders/1P5h-L_YhbDls98r0NWXGMOcG6tjZNjza?usp=sharing)
 
+If you have problem loading the model due to latest torch use zip file as serialization, download the "RCSB_old_style.pt" instead. \
+It is the same as "RCSB.pt", just to fit older torch versions.
 
 ### Evaluation
 Firstly, obtain predictions via
