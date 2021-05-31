@@ -64,12 +64,12 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 ![mae_table](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/MAE_table.png)
 ![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/all_prfm_curves_12.png)
 ### Citation
-If you like this work, please cite our paper
-@misc{yun2021recursive,
-      title={Recursive Contour Saliency Blending Network for Accurate Salient Object Detection}, 
-      author={Yi Ke Yun and Chun Wei Tan and Takahiro Tsubono},
-      year={2021},
-      eprint={2105.13865},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+If you like this work, please cite our paper\
+@misc{yun2021recursive,\
+      title={Recursive Contour Saliency Blending Network for Accurate Salient Object Detection},\
+      author={Yi Ke Yun and Chun Wei Tan and Takahiro Tsubono},\
+      year={2021},\
+      eprint={2105.13865},\
+      archivePrefix={arXiv},\
+      primaryClass={cs.CV}\
 }
