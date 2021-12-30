@@ -1,5 +1,5 @@
 ## Recursive Contour Saliency Blending Network for Accurate Salient Object Detection
-<img src="https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/NIPS_logo.png" alt="drawing" width="200"/>
+<img src="https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/WACV_LOGO.jpeg" alt="drawing" width="500"/>
 
 ### Network Architecture
 ![network](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/RCSBNet.png)
@@ -60,6 +60,10 @@ Output will be saved in `./output/` by default.
 For *PR curve* and *F curve*, we use the code provided by this repo: [[BASNet, CVPR-2019]](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)\
 For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by this repo: [[F3Net, AAAI-2020]](https://github.com/weijun88/F3Net#evaluation)
 ### Evaluation Results
+#### Qualitative Results
+![pred](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/vis.png)
+![contour](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/ctr.png)
+#### Quantitative Results
 ![mae_table](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/MAE_table.png)
 ![prfm_curve](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/all_prfm_curves_12.png)
 ### Citation
