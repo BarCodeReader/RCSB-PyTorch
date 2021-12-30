@@ -71,7 +71,7 @@ If you like this work, please cite our paper
 ```
 @misc{yun2021recursive,
       title={Recursive Contour Saliency Blending Network for Accurate Salient Object Detection},
-      author={Yi Ke Yun and Chun Wei Tan and Takahiro Tsubono},
+      author={Yi Ke Yun and Takahiro Tsubono},
       year={2021},
       eprint={2105.13865},
       archivePrefix={arXiv},
