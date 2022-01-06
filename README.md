@@ -69,12 +69,12 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 ### Citation
 If you like this work, please cite our paper
 ```
-@misc{yun2021recursive,
-      title={Recursive Contour Saliency Blending Network for Accurate Salient Object Detection},
-      author={Yi Ke Yun and Takahiro Tsubono},
-      year={2021},
-      eprint={2105.13865},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Ke_2022_WACV,
+    author    = {Ke, Yun Yi and Tsubono, Takahiro},
+    title     = {Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {2940-2950}
 }
 ```
