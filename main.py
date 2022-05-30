@@ -24,7 +24,7 @@ def main():
     if opt.test_only:
         tester = Tester(module, opt)
         ckpt = glob.glob('{}/{}'.format(opt.ckpt_root, opt.pretrain))
-        assert len(ckpt)!=0, "cannot find checkpoint {} in {}".foramt(opt.pretrain, opt.ckpt_root)
+        assert len(ckpt)!=0, "cannot find checkpoint {} in {}".format(opt.pretrain, opt.ckpt_root)
         print("Evaluate {} (loaded from {}) on {} dataset".format(opt.model,
                                                                   ckpt[0],
                                                                   opt.test_dataset.split('_')[1]))
