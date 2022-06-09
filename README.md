@@ -1,3 +1,9 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/recursive-contour-saliency-blending-network/salient-object-detection-on-pascal-s-1)](https://paperswithcode.com/sota/salient-object-detection-on-pascal-s-1?p=recursive-contour-saliency-blending-network)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/recursive-contour-saliency-blending-network/salient-object-detection-on-ecssd-1)](https://paperswithcode.com/sota/salient-object-detection-on-ecssd-1?p=recursive-contour-saliency-blending-network)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/recursive-contour-saliency-blending-network/salient-object-detection-on-hku-is-1)](https://paperswithcode.com/sota/salient-object-detection-on-hku-is-1?p=recursive-contour-saliency-blending-network)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/recursive-contour-saliency-blending-network/salient-object-detection-on-dut-omron-2)](https://paperswithcode.com/sota/salient-object-detection-on-dut-omron-2?p=recursive-contour-saliency-blending-network)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/recursive-contour-saliency-blending-network/salient-object-detection-on-duts-te-1)](https://paperswithcode.com/sota/salient-object-detection-on-duts-te-1?p=recursive-contour-saliency-blending-network)
+
 ## [Recursive Contour Saliency Blending Network for Accurate Salient Object Detection](https://openaccess.thecvf.com/content/WACV2022/html/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.html)
 <img src="https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/WACV_LOGO.jpeg" alt="drawing" width="500"/>
 
