@@ -69,7 +69,7 @@ python main.py --test_only --pretrain "bal_bla.pt" --GPU_ID 0
 If you want to train/test with different settings, please refer to **option.py** for more control options.\
 Currently only support training on single GPU.
 ### Pretrain Model & Pre-calculated Saliency Map
-Our pretrain model and pre-calculated saliency map: [[Google]](https://drive.google.com/file/d/1fnqX2j327U9wTGEt15uDWtA5jHR8mku1/view?usp=sharing)
+Our pretrain model and pre-calculated saliency map: [[Google]](https://drive.google.com/drive/folders/1P5h-L_YhbDls98r0NWXGMOcG6tjZNjza?usp=sharing)
 
 If you have problem loading the model due to latest torch use zip file as serialization, download the "RCSB_old_style.pt" instead. It is the same as "RCSB.pt", just to fit older torch versions.
 
