@@ -9,6 +9,9 @@
 
 ## [[WACV-2022]Recursive Contour Saliency Blending Network for Accurate Salient Object Detection](https://openaccess.thecvf.com/content/WACV2022/html/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.html)
 
+## News
+Our latest Transformer based SOTA: [SelfReformer](https://github.com/BarCodeReader/SelfReformer)
+
 ### Network Architecture
 ![network](https://github.com/BarCodeReader/RCSB-PyTorch/blob/main/bin/RCSBNet.png)
 ### Prerequisites
